@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Roboto&display=swap');
+*{
+    font-family: 'Inter', sans-serif;;
+}
+.head{
+    border: 1px solid;
+    padding: 10px;
+}
+
+.image1{
+    padding: 10px;
+}
+
+.image{
+    width: 1051px;
+    height: 762px;
+}
+
+.list{
+    padding: 10px;
+}
